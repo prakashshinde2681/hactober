@@ -2,7 +2,7 @@
   
 int main() 
 { 
-    int x, y; 
+    int x, y; // varables
     printf("Enter Value of x "); 
     scanf("%d", &x); 
     printf("\nEnter Value of y "); 
