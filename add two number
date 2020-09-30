@@ -17,5 +17,5 @@ int main()
     // Print the sum 
     printf("Sum of A and B is: %d", sum); 
       
-    return ; 
+    return 0;
 } 
