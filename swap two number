@@ -2,16 +2,16 @@
   
 int main() 
 { 
-    int x, y; 
-    printf("Enter Value of x "); 
-    scanf("%d", &x); 
-    printf("\nEnter Value of y "); 
-    scanf("%d", &y); 
+    int a, b; 
+    printf("Enter Value of a "); 
+    scanf("%d", &a); 
+    printf("\nEnter Value of b "); 
+    scanf("%d", &yb; 
   
-    int temp = x; 
-    x = y; 
+    int temp = a; 
+    a = b; 
     y = temp; 
   
-    printf("\nAfter Swapping: x = %d, y = %d", x, y); 
+    printf("\nAfter Swapping: a = %d, b = %d", a, b); 
     return 0; 
 } 
